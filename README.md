@@ -6,7 +6,7 @@ Atualmente explorando desenvolvimento front-end, Python e conceitos de banco de 
 
 Aprendendo continuamente através de projetos práticos da faculdade
 
-💻 ##Tecnologias
+ ## 💻 Tecnologias
 
 - HTML5, CSS3, JavaScript
 - Python
