@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou o Kaylany 👋
 
-<!--
-**kaayllany/kaayllany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UNICID (Universidade Cidade de São Paulo)
 
-Here are some ideas to get you started:
+🔭 Atualmente explorando desenvolvimento front-end, Python e conceitos de banco de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Aprendendo continuamente através de projetos práticos da faculdade
+
+## 🛠️ Tecnologias
+
+- HTML5, CSS3, JavaScript
+- Python
+- React
+- Modelagem de dados / DER
+
+## 📌 Projetos em destaque
+
+- **Avengers Fan Site** — site de fãs do universo MCU, com navbar, footer e layout responsivo
+- **PetCare Manager** — tela de gerenciamento de usuários em React, para um app de clínica pet
+- **Aventura nas Cavernas Ancestrais** — jogo cooperativo em HTML5 para navegador
+- **Interface & User Journey Games** — jogos de navegador (Snake Battle Royale, Bad Snake)
+
+## 📫 Contato
+
+- LinkedIn: kaylany-thayna
+- Email: kaylanythayna@hotmail.com
