@@ -17,7 +17,7 @@
 
 - **Avengers Fan Site** — site de fãs do universo MCU, com navbar, footer e layout responsivo
 - **PetCare Manager** — tela de gerenciamento de usuários em React, para um app de clínica pet
-- **Aventura nas Cavernas Ancestrais** — jogo cooperativo para navegador
+- **Aventura nas Cavernas Ancestrais** — jogo cooperativo em HTML para navegador
 
 
 ## 📫 Contato
