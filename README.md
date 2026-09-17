@@ -1,12 +1,12 @@
-# Oii! Eu sou a Kaylany 👋
+# Oii! Eu sou a Kaylany 
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UNICID (Universidade Cidade de São Paulo)
 
-🔭 Atualmente explorando desenvolvimento front-end, Python e conceitos de banco de dados
+Atualmente explorando desenvolvimento front-end, Python e conceitos de banco de dados
 
-🌱 Aprendendo continuamente através de projetos práticos da faculdade
+Aprendendo continuamente através de projetos práticos da faculdade
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML5, CSS3, JavaScript
 - Python
