@@ -1,4 +1,4 @@
-# Olá, eu sou a Kaylany 👋
+# Oii! Eu sou a Kaylany 👋
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UNICID (Universidade Cidade de São Paulo)
 
