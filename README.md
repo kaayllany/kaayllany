@@ -22,5 +22,5 @@ Aprendendo continuamente através de projetos práticos da faculdade
 
 ## 📫 Contato
 
-- LinkedIn: kaylany-thayna
+- LinkedIn: https://www.linkedin.com/in/kaylany-thayna
 - Email: kaylanythayna@hotmail.com
