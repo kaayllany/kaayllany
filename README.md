@@ -40,9 +40,15 @@ Transformando o que aprendo na faculdade em projetos práticos: front-end, JavaS
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <p>
+  <img src="https://img.shields.io/badge/DER-Modelagem_de_Dados-4479A1?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="DER">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/UML-Diagramas-FABD14?style=for-the-badge&logo=uml&logoColor=black" alt="UML">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Canvas_2D-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Canvas 2D">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/localStorage-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="localStorage">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Layout_Responsivo-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Layout responsivo">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Trabalho_em_Equipe-2EA44F?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Trabalho em equipe">
 </p>
 
- Modelagem de dados (**DER**) ·  **UML** ·  Canvas 2D ·  localStorage ·  Layout responsivo ·  Trabalho em equipe
 
 ## 📌 Projetos em destaque
 
