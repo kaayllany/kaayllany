@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou a Kaylany 
+#  Oii! Eu sou a Kaylany 
 
 **Estudante de Análise e Desenvolvimento de Sistemas · UNICID**
 
@@ -14,10 +14,28 @@ Transformando o que aprendo na faculdade em projetos práticos: front-end, JavaS
 
 ##  Sobre mim
 
--  Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **UNICID** (Universidade Cidade de São Paulo)
--  Explorando **desenvolvimento front-end**, **Python** e **conceitos de banco de dados**
--  Participo de **projetos em grupo**, praticando trabalho em equipe e versionamento com Git
--  Aprendendo continuamente por meio de **projetos práticos**
+Meu caminho na tecnologia começou na faculdade, e desde então descobri que o que mais me motiva é ver uma ideia sair do papel e virar algo que as pessoas conseguem usar, seja um site, um jogo ou um sistema.
+
+Nos projetos em grupo da graduação, aprendi na prática a dividir tarefas, resolver problemas em equipe e documentar o que construo. Gosto de entender o "porquê" por trás do código, desde a modelagem dos dados até a interface que o usuário vê, e estou sempre buscando evoluir um pouco mais a cada projeto.
+
+Hoje meu foco é crescer no **desenvolvimento front-end** e fortalecer minha base em **Python** e **banco de dados**.
+
+###  O que eu faço
+-  Desenvolvo interfaces **front-end** com HTML, CSS, JavaScript e React
+-  Programo em **Python**, **C** e **C++** para praticar lógica e estruturas de dados
+-  Trabalho com **bancos de dados** (SQL e MySQL) e **modelagem de dados** (DER e UML)
+-  Crio protótipos e peças visuais no **Figma**, **Canva**, **Illustrator** e **Photoshop**
+-  Exploro análise de dados e dashboards no **Power BI**
+
+###  No que estou focada agora
+- Aprofundar em **React**, **Next.js** e consumo de **APIs REST**
+- Evoluir em **Python** e **banco de dados**
+- Conhecer **computação em nuvem** (AWS e Azure) e publicar projetos online (GitHub Pages e Netlify)
+
+Como eu trabalho
+- Desenvolvo projetos **em grupo**, usando **Git e GitHub** para versionar e colaborar
+- Conheço **Scrum** e **Kanban** para organizar tarefas e entregas
+- Gosto de documentar bem: todos os meus projetos têm README com objetivo, funcionalidades e tecnologias
 
 
 ##  Tecnologias
@@ -82,13 +100,6 @@ Todos desenvolvidos em grupo na graduação, cada um com README explicando objet
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaayllany&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
 </div>
 
-## 🎯 Objetivos atuais
-
-- [x] Criar projetos práticos da faculdade com HTML, CSS e JavaScript
-- [x] Dar os primeiros passos com React
-- [x] Publicar projetos online com GitHub Pages
-- [ ] Aprofundar em Python e banco de dados
-- [ ] Conquistar uma oportunidade de estágio em tecnologia
 
 
 
