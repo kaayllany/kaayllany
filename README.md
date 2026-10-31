@@ -67,7 +67,6 @@ Todos desenvolvidos em grupo na graduação, cada um com README explicando objet
 <br>
 
 ##  Tecnologias
-##  Tecnologias
 
 <table align="center">
   <tr>
