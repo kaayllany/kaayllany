@@ -120,7 +120,6 @@ Todos desenvolvidos em grupo na graduação, cada um com README explicando objet
   <img src="https://img.shields.io/github/last-commit/kaayllany/kaayllany?style=for-the-badge&logo=git&label=LAST%20COMMIT&labelColor=555555&color=1f4e5f" alt="Último commit">
 </p>
 
-<br>
 
 ##  Vamos conversar?
 
