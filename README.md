@@ -64,7 +64,6 @@ Transformando o que aprendo na faculdade em projetos práticos: front-end, JavaS
   <img src="https://img.shields.io/badge/Canvas_2D-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Canvas 2D">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/localStorage-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="localStorage">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Layout_Responsivo-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Layout responsivo">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Trabalho_em_Equipe-2EA44F?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Trabalho em equipe">
 </p>
 
 
