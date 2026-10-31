@@ -19,25 +19,6 @@ Meu caminho na tecnologia começou na faculdade, e desde então descobri que o q
 Nos projetos em grupo da graduação, aprendi na prática a dividir tarefas, resolver problemas em equipe e documentar o que construo. Gosto de entender o "porquê" por trás do código, desde a modelagem dos dados até a interface que o usuário vê, e estou sempre buscando evoluir um pouco mais a cada projeto.
 
 Hoje meu foco é crescer no **desenvolvimento front-end** e fortalecer minha base em **Python** e **banco de dados**.
-
-###  O que eu faço
--  Desenvolvo interfaces **front-end** com HTML, CSS, JavaScript e React
--  Programo em **Python**, **C** e **C++** para praticar lógica e estruturas de dados
--  Trabalho com **bancos de dados** (SQL e MySQL) e **modelagem de dados** (DER e UML)
--  Crio protótipos e peças visuais no **Figma**, **Canva**, **Illustrator** e **Photoshop**
--  Exploro análise de dados e dashboards no **Power BI**
-
-###  No que estou focada agora
-- Aprofundar em **React**, **Next.js** e consumo de **APIs REST**
-- Evoluir em **Python** e **banco de dados**
-- Conhecer **computação em nuvem** (AWS e Azure) e publicar projetos online (GitHub Pages e Netlify)
-
-Como eu trabalho
-- Desenvolvo projetos **em grupo**, usando **Git e GitHub** para versionar e colaborar
-- Conheço **Scrum** e **Kanban** para organizar tarefas e entregas
-- Gosto de documentar bem: todos os meus projetos têm README com objetivo, funcionalidades e tecnologias
-
-
 ##  Tecnologias
 
 <p>
@@ -84,6 +65,26 @@ Como eu trabalho
 </p>
 
 
+###  O que eu faço
+-  Desenvolvo interfaces **front-end** com HTML, CSS, JavaScript e React
+-  Programo em **Python**, **C** e **C++** para praticar lógica e estruturas de dados
+-  Trabalho com **bancos de dados** (SQL e MySQL) e **modelagem de dados** (DER e UML)
+-  Crio protótipos e peças visuais no **Figma**, **Canva**, **Illustrator** e **Photoshop**
+-  Exploro análise de dados e dashboards no **Power BI**
+
+###  No que estou focada agora
+- Aprofundar em **React**, **Next.js** e consumo de **APIs REST**
+- Evoluir em **Python** e **banco de dados**
+- Conhecer **computação em nuvem** (AWS e Azure) e publicar projetos online (GitHub Pages e Netlify)
+
+Como eu trabalho
+- Desenvolvo projetos **em grupo**, usando **Git e GitHub** para versionar e colaborar
+- Conheço **Scrum** e **Kanban** para organizar tarefas e entregas
+- Gosto de documentar bem: todos os meus projetos têm README com objetivo, funcionalidades e tecnologias
+
+
+
+
 ## 📌 Projetos em destaque
 
 Todos desenvolvidos em grupo na graduação, cada um com README explicando objetivo, funcionalidades e tecnologias.
@@ -95,10 +96,6 @@ Todos desenvolvidos em grupo na graduação, cada um com README explicando objet
 | 🕹️ **Aventura nas Cavernas Ancestrais** | Jogo de ação e estratégia no navegador: 10 cavernas, 3 heróis, 1 ou 2 jogadores e progresso salvo | HTML · CSS · JavaScript · Canvas |
 
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaayllany&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaayllany&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
-</div>
 
 
 
