@@ -26,6 +26,9 @@ Transformando o que aprendo na faculdade em projetos práticos: front-end, JavaS
 ## 🛠️ Tecnologias
 
 <p>
+  ## 🛠️ Tecnologias
+
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;&nbsp;
@@ -39,14 +42,21 @@ Transformando o que aprendo na faculdade em projetos práticos: front-end, JavaS
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <p>
-  <img src="https://img.shields.io/badge/DER-Modelagem_de_Dados-4479A1?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="DER">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/UML-Diagramas-FABD14?style=for-the-badge&logo=uml&logoColor=black" alt="UML">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Kanban">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DER-4479A1?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="DER">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=uml&logoColor=black" alt="UML">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Canvas_2D-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Canvas 2D">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/localStorage-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="localStorage">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Layout_Responsivo-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Layout responsivo">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Trabalho_em_Equipe-2EA44F?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Trabalho em equipe">
+  <img src="https://img.shields.io/badge/Layout_Responsivo-1572B6?style=for-the-badge&logo=css3&logoColor=white"
 </p>
 
 
