@@ -15,10 +15,38 @@ Transformando o que aprendo na faculdade em projetos práticos: front-end, JavaS
 ##  Sobre mim
 
 Meu caminho na tecnologia começou na faculdade, e desde então descobri que o que mais me motiva é ver uma ideia sair do papel e virar algo que as pessoas conseguem usar, seja um site, um jogo ou um sistema.
-
 Nos projetos em grupo da graduação, aprendi na prática a dividir tarefas, resolver problemas em equipe e documentar o que construo. Gosto de entender o "porquê" por trás do código, desde a modelagem dos dados até a interface que o usuário vê, e estou sempre buscando evoluir um pouco mais a cada projeto.
 
 Hoje meu foco é crescer no **desenvolvimento front-end** e fortalecer minha base em **Python** e **banco de dados**.
+
+### O que eu faço
+-  Desenvolvo interfaces **front-end** com HTML, CSS, JavaScript e React
+-  Programo em **Python**, **C** e **C++** para praticar lógica e estruturas de dados
+-  Trabalho com **bancos de dados** (SQL e MySQL) e **modelagem de dados** (DER e UML)
+-  Crio protótipos e peças visuais no **Figma**, **Canva**, **Illustrator** e **Photoshop**
+-  Exploro análise de dados e dashboards no **Power BI**
+
+### No que estou focada agora
+- Aprofundar em **React**, **Next.js** e consumo de **APIs REST**
+- Evoluir em **Python** e **banco de dados**
+- Conhecer **computação em nuvem** (AWS e Azure) e publicar projetos online (GitHub Pages e Netlify)
+
+### Como eu trabalho
+- Desenvolvo projetos **em grupo**, usando **Git e GitHub** para versionar e colaborar
+- Conheço **Scrum** e **Kanban** para organizar tarefas e entregas
+- Gosto de documentar bem: todos os meus projetos têm README com objetivo, funcionalidades e tecnologias.
+
+## 📌 Projetos em destaque
+
+Todos desenvolvidos em grupo na graduação, cada um com README explicando objetivo, funcionalidades e tecnologias.
+
+| Projeto | O que é | Tecnologias |
+|---|---|---|
+| 🕷️ **Avengers Fan Hub** | Site de fãs do MCU com história, heróis, vilões, linha do tempo dos filmes, quiz e chat. Layout responsivo | HTML · CSS · JavaScript |
+| 🐾 **PetCare Manager** | Tela de gerenciamento de usuários para um sistema de clínica veterinária, com protótipos de acesso por função | React · JavaScript · Figma |
+| 🕹️ **Aventura nas Cavernas Ancestrais** | Jogo de ação e estratégia no navegador: 10 cavernas, 3 heróis, 1 ou 2 jogadores e progresso salvo | HTML · CSS · JavaScript · Canvas |
+
+
 ##  Tecnologias
 
 <p>
@@ -64,36 +92,28 @@ Hoje meu foco é crescer no **desenvolvimento front-end** e fortalecer minha bas
   <img src="https://img.shields.io/badge/Layout_Responsivo-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Layout responsivo">&nbsp;&nbsp;
 </p>
 
+---
 
-###  O que eu faço
--  Desenvolvo interfaces **front-end** com HTML, CSS, JavaScript e React
--  Programo em **Python**, **C** e **C++** para praticar lógica e estruturas de dados
--  Trabalho com **bancos de dados** (SQL e MySQL) e **modelagem de dados** (DER e UML)
--  Crio protótipos e peças visuais no **Figma**, **Canva**, **Illustrator** e **Photoshop**
--  Exploro análise de dados e dashboards no **Power BI**
+##  Vamos conversar?
 
-###  No que estou focada agora
-- Aprofundar em **React**, **Next.js** e consumo de **APIs REST**
-- Evoluir em **Python** e **banco de dados**
-- Conhecer **computação em nuvem** (AWS e Azure) e publicar projetos online (GitHub Pages e Netlify)
+Estou aberta a feedbacks, trocas de experiência e oportunidades na área de tecnologia. Se quiser conversar sobre projetos, estudos ou carreira, é só me chamar!
 
-Como eu trabalho
-- Desenvolvo projetos **em grupo**, usando **Git e GitHub** para versionar e colaborar
-- Conheço **Scrum** e **Kanban** para organizar tarefas e entregas
-- Gosto de documentar bem: todos os meus projetos têm README com objetivo, funcionalidades e tecnologias
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaylany-thayna-b82931199) &nbsp;&nbsp;  &nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaylanythayna@hotmail.com)
+
+<br>
+
+*Obrigada por visitar meu perfil! *
+
+</div>
 
 
 
 
-## 📌 Projetos em destaque
 
-Todos desenvolvidos em grupo na graduação, cada um com README explicando objetivo, funcionalidades e tecnologias.
 
-| Projeto | O que é | Tecnologias |
-|---|---|---|
-| 🕷️ **Avengers Fan Hub** | Site de fãs do MCU com história, heróis, vilões, linha do tempo dos filmes, quiz e chat. Layout responsivo | HTML · CSS · JavaScript |
-| 🐾 **PetCare Manager** | Tela de gerenciamento de usuários para um sistema de clínica veterinária, com protótipos de acesso por função | React · JavaScript · Figma |
-| 🕹️ **Aventura nas Cavernas Ancestrais** | Jogo de ação e estratégia no navegador: 10 cavernas, 3 heróis, 1 ou 2 jogadores e progresso salvo | HTML · CSS · JavaScript · Canvas |
+
 
 
 
