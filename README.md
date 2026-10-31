@@ -67,7 +67,6 @@ Todos desenvolvidos em grupo na graduação, cada um com README explicando objet
 <br>
 
 ##  Tecnologias
-##  Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;&nbsp;&nbsp;&nbsp;
