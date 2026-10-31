@@ -96,7 +96,7 @@ Todos desenvolvidos em grupo na graduação, cada um com README explicando objet
 
 ##  Vamos conversar?
 
-Estou aberta a feedbacks, trocas de experiência e oportunidades na área de tecnologia. Se quiser conversar sobre projetos, estudos ou carreira, é só me chamar!
+Estou aberta a feedbacks, trocas de experiência e oportunidades na área de tecnologia. Se quiser conversar sobre projetos, estudos ou carreira, estes são meus perfis:
 
 <div align="center">
 
