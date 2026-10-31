@@ -111,6 +111,13 @@ Todos desenvolvidos em grupo na graduação, cada um com README explicando objet
   <img src="https://img.shields.io/badge/Layout_Responsivo-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Layout responsivo">
 </p>
 
+##  Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/kaayllany?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=555555&color=1f4e5f" alt="Seguidores">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/last-commit/kaayllany/kaayllany?style=for-the-badge&logo=git&label=LAST%20COMMIT&labelColor=555555&color=1f4e5f" alt="Último commit">
+</p>
+
 ##  Vamos conversar?
 
 Estou aberta a feedbacks, trocas de experiência e oportunidades na área de tecnologia. Se quiser conversar sobre projetos, estudos ou carreira, estes são meus perfis:
