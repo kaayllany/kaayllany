@@ -6,8 +6,6 @@
 
 Transformando o que aprendo na faculdade em projetos práticos: front-end, JavaScript, React e banco de dados.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaylany-thayna-b82931199) &nbsp;&nbsp;  &nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaylanythayna@hotmail.com)
-
 </div>
 
 ---
