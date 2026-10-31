@@ -1,3 +1,69 @@
+<div align="center">
+
+# Olá, eu sou a Kaylany 👋
+
+**Estudante de Análise e Desenvolvimento de Sistemas · UNICID**
+
+Transformando o que aprendo na faculdade em projetos práticos: front-end, JavaScript, React e banco de dados.
+
+<a href="https://www.linkedin.com/in/kaylany-thayna-b82931199"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:kaylanythayna@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+</div>
+
+---
+
+## 🎓 Sobre mim
+
+-  Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **UNICID** (Universidade Cidade de São Paulo)
+-  Explorando **desenvolvimento front-end**, **Python** e **conceitos de banco de dados**
+-  Participo de **projetos em grupo**, praticando trabalho em equipe e versionamento com Git
+-  Aprendendo continuamente por meio de **projetos práticos**
+
+
+##  Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+📐 Também trabalho com **modelagem de dados (DER)**.
+
+## 📌 Projetos em destaque
+
+Todos desenvolvidos em grupo na graduação, cada um com README explicando objetivo, funcionalidades e tecnologias.
+
+| Projeto | O que é | Tecnologias |
+|---|---|---|
+| 🕷️ **Avengers Fan Hub** | Site de fãs do MCU com história, heróis, vilões, linha do tempo dos filmes, quiz e chat. Layout responsivo | HTML · CSS · JavaScript |
+| 🐾 **PetCare Manager** | Tela de gerenciamento de usuários para um sistema de clínica veterinária, com protótipos de acesso por função | React · JavaScript · Figma |
+| 🕹️ **Aventura nas Cavernas Ancestrais** | Jogo de ação e estratégia no navegador: 10 cavernas, 3 heróis, 1 ou 2 jogadores e progresso salvo | HTML · CSS · JavaScript · Canvas |
+
+> 👉 Veja os repositórios fixados logo abaixo.
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaayllany&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaayllany&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
+</div>
+
+## 🎯 Objetivos atuais
+
+- [x] Criar projetos práticos da faculdade com HTML, CSS e JavaScript
+- [x] Dar os primeiros passos com React
+- [x] Publicar projetos online com GitHub Pages
+- [ ] Aprofundar em Python e banco de dados
+- [ ] Conquistar uma oportunidade de estágio em tecnologia
+
+
 
 
 
