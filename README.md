@@ -104,7 +104,7 @@ Estou aberta a feedbacks, trocas de experiência e oportunidades na área de tec
 
 <br>
 
-*Obrigada por visitar meu perfil! *
+*Obrigada por visitar meu perfil!*
 
 </div>
 
