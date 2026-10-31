@@ -6,7 +6,7 @@
 
 #  Oii! Que bom ter você por aqui
 
-**Estudante de Análise e Desenvolvimento de Sistemas · UNICID**
+** Sou estudante de Análise e Desenvolvimento de Sistemas · UNICID**
 
 Transformando o que aprendo na faculdade em projetos práticos: front-end, JavaScript, React e banco de dados.
 
