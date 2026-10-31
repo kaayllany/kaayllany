@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f26,100:2c5364&height=200&section=header&text=Kaylany&fontSize=60&fontColor=ffffff&desc=estudante%20de%20ADS%20%C2%B7%20front-end%20e%20banco%20de%20dados&descSize=18&descAlignY=65" alt="Banner Kaylany">
+</p>
 <div align="center">
 
 #  Oii! Eu sou a Kaylany 
