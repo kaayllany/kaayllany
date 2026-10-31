@@ -24,16 +24,15 @@ Transformando o que aprendo na faculdade em projetos práticos: front-end, JavaS
 ##  Tecnologias
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
-
 📐 Também trabalho com **modelagem de dados (DER)**.
 
 ## 📌 Projetos em destaque
@@ -46,9 +45,6 @@ Todos desenvolvidos em grupo na graduação, cada um com README explicando objet
 | 🐾 **PetCare Manager** | Tela de gerenciamento de usuários para um sistema de clínica veterinária, com protótipos de acesso por função | React · JavaScript · Figma |
 | 🕹️ **Aventura nas Cavernas Ancestrais** | Jogo de ação e estratégia no navegador: 10 cavernas, 3 heróis, 1 ou 2 jogadores e progresso salvo | HTML · CSS · JavaScript · Canvas |
 
-> 👉 Veja os repositórios fixados logo abaixo.
-
-## 📊 Estatísticas
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaayllany&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
