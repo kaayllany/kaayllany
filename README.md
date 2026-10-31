@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f26,100:2c5364&height=200&section=header&text=Kaylany&fontSize=60&fontColor=ffffff&desc=estudante%20de%20ADS%20%C2%B7%20front-end%20e%20banco%20de%20dados&descSize=18&descAlignY=65" alt="Banner Kaylany">
+ <img width="1024" height="160" alt="image" src="https://github.com/user-attachments/assets/159ba592-58b8-4f96-8bc1-c4d53e80d806" />
 </p>
 <div align="center">
 
